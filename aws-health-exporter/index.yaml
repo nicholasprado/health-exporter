@@ -3,7 +3,7 @@ entries:
   prometheus-aws-health-exporter:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2022-11-17T17:28:23.7555858-03:00"
+    created: "2022-11-17T17:30:54.745057972-03:00"
     description: AWS Health API Exporter for Prometheus
     digest: ef3ff9e4aa3a112379d08ce3899911581dd11a1503d15f1278934bf995c90291
     home: https://github.com/Jimdo/aws-health-exporter
@@ -16,6 +16,6 @@ entries:
     sources:
     - https://github.com/Jimdo/aws-health-exporter
     urls:
-    - https://nicholasprado.github.io/health-exporter/aws-health-exporter/prometheus-aws-health-exporter-0.1.5.tgz
+    - https://nicholasprado.github.io/health-exporter/aws-health-exporter/index.yaml/prometheus-aws-health-exporter-0.1.5.tgz
     version: 0.1.5
-generated: "2022-11-17T17:28:23.751488884-03:00"
+generated: "2022-11-17T17:30:54.744324176-03:00"
