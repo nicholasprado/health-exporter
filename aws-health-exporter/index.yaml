@@ -16,6 +16,6 @@ entries:
     sources:
     - https://github.com/Jimdo/aws-health-exporter
     urls:
-    - https://nicholasprado.github.io/health-exporter/aws-health-exporter/index.yaml/prometheus-aws-health-exporter-0.1.5.tgz
+    - https://nicholasprado.github.io/health-exporter/aws-health-exporter/prometheus-aws-health-exporter-0.1.5.tgz
     version: 0.1.5
 generated: "2022-11-17T17:30:54.744324176-03:00"
